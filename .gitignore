@@ -1,0 +1,10 @@
+# build output / local references (game assemblies are copyrighted — never commit)
+build/
+*.dll
+*.pdb
+bin/
+obj/
+__pycache__/
+*.pyc
+# local previews
+previews/

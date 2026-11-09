@@ -1,0 +1,9 @@
+{
+  "name": "Ngaodara: Age of Legends",
+  "author": "Hoyturbro",
+  "version": "0.5.0",
+  "description": "เงาดารา: ยุคแห่งตำนาน — hero ranks E→G with stars, 30 classes, Skill Tree, guilds, eras with era-specific cities, divine sets & relics, economy, world creator (TH/EN)",
+  "GUID": "hoyturbro.ngaodarapack",
+  "iconPath": "icon.png",
+  "UsePublicizedAssembly": true
+}

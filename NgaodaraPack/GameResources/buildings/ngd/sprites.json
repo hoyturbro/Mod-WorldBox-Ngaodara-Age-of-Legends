@@ -1,0 +1,16 @@
+{
+  "Default": {
+    "PivotX": 0.5,
+    "PivotY": 0.08,
+    "PixelsPerUnit": 2,
+    "RectX": 0,
+    "RectY": 0,
+    "RectW": -1,
+    "RectH": -1,
+    "BorderL": 0,
+    "BorderB": 0,
+    "BorderR": 0,
+    "BorderT": 0
+  },
+  "Specific": []
+}
